@@ -1,0 +1,18 @@
+table {
+    background-color: antiquewhite;
+    width: 75%;
+    border-collapse: collapse;
+}
+
+th {
+    font-weight: bold;
+    background-color: chocolate;
+    color: black;
+}
+
+th,
+td {
+    border: 1px solid darkcyan;
+    padding: 8px;
+    text-align: center;
+}
